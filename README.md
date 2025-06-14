@@ -17,8 +17,6 @@ Move your glowing player block left and right to dodge falling enemy blocks. Col
 > 🌟 Animated power-ups  
 > 🎯 Score, lives, and shield status displayed in real time  
 
-![preview](https://via.placeholder.com/600x400?text=Game+Preview+Screenshot)
-
 ---
 
 ## 🔧 Features
